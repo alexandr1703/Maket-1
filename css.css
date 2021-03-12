@@ -23,7 +23,7 @@ ul{
 }
 
 .col2 li{
-    display:block;
+   display:block;
     float:left;
     width:50%;
 }
@@ -39,8 +39,8 @@ span{
     margin-left: 50px;
 }
 .bl{
-    background: #bcbcbc !important;
-    color:#838383
+    background: #dcdcdc !important;
+    color:#7e7e7e
 }
 /*header*/
 header{
